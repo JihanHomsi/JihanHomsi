@@ -2,6 +2,9 @@
   Hello, I'm Jihan Homsi
 </h1>
 
+<h3 align="center">A passionate Computer Science student, Creative thinker, problem solver, future leader</h3>
+<img src="right" alt="coding" width="400" src="https://tenor.com/view/coding-girl-gif-2332171326726785246">
+
 <style>
 @keyframes typing {
   from { width: 0 }
@@ -14,9 +17,6 @@
 }
 </style>
 
-
-<h3 align="center">A passionate Computer Science student, Creative thinker, problem solver, future leader</h3>
-<img src="right" alt="coding" width="400" src="https://tenor.com/view/coding-girl-gif-2332171326726785246">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jihanhomsi&label=Profile%20views&color=0e75b6&style=flat" alt="jihanhomsi" /> </p>
 
