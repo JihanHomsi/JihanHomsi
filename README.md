@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family: 'Courier New', Courier, monospace; font-size: 24px; white-space: nowrap; overflow: hidden; border-right: 3px solid; width: 20ch; animation: typing 3s steps(20, end), blink-caret 0.5s step-end infinite;">
-  Hello
+  Hello :)
 </h1>
 
 <h3 align="center">A passionate Computer Science student, Creative thinker, problem solver, future leader</h3>
