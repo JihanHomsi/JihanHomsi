@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jihan Homsi</h1>
+<h1 align="center">Hello 👋, I'm Jihan Homsi</h1>
 <h3 align="center">A passionate Computer Science student, Creative thinker, problem solver, future leader</h3>
 <img src="right" alt="coding" width="400" src="https://tenor.com/view/coding-girl-gif-2332171326726785246">
 
