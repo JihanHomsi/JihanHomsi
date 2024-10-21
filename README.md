@@ -1,6 +1,8 @@
 <h1 align="center">Hello 👋, I'm Jihan Homsi</h1>
 <h3 align="center">A passionate Computer Science student, Creative thinker, problem solver, future leader</h3>
 <img src="right" alt="coding" width="400" src="https://tenor.com/view/coding-girl-gif-2332171326726785246">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75998&width=435&lines=Hello%2C+I'm+Jihan+Homsi)](https://git.io/typing-svg)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jihanhomsi&label=Profile%20views&color=0e75b6&style=flat" alt="jihanhomsi" /> </p>
 
