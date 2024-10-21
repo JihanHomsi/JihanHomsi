@@ -2,6 +2,19 @@
   Hello, I'm Jihan Homsi
 </h1>
 
+<style>
+@keyframes typing {
+  from { width: 0 }
+  to { width: 20ch }
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: black }
+}
+</style>
+
+
 <h3 align="center">A passionate Computer Science student, Creative thinker, problem solver, future leader</h3>
 <img src="right" alt="coding" width="400" src="https://tenor.com/view/coding-girl-gif-2332171326726785246">
 
